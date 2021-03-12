@@ -137,13 +137,6 @@
 
   
   <url>
-    <loc>https://www.zhufengblog.com/tags/matploylib%E7%BB%98%E5%9B%BE/</loc>
-    <lastmod>2021-03-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zhufengblog.com/tags/git/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
@@ -158,7 +151,7 @@
   </url>
   
   <url>
-    <loc>https://www.zhufengblog.com/tags/latex%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://www.zhufengblog.com/tags/matploylib%E7%BB%98%E5%9B%BE/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -166,6 +159,13 @@
   
   <url>
     <loc>https://www.zhufengblog.com/tags/matplotlib%E7%BB%98%E5%9B%BE/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zhufengblog.com/tags/latex%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -202,14 +202,14 @@
 
   
   <url>
-    <loc>https://www.zhufengblog.com/categories/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/</loc>
+    <loc>https://www.zhufengblog.com/categories/git/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.zhufengblog.com/categories/git/</loc>
+    <loc>https://www.zhufengblog.com/categories/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/</loc>
     <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
