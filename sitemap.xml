@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zhufengblog.com/2021/03/13/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A82/</loc>
+    
+    <lastmod>2021-03-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zhufengblog.com/2021/03/11/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A81/</loc>
     
     <lastmod>2021-03-12</lastmod>
@@ -172,13 +179,6 @@
   </url>
   
   <url>
-    <loc>https://www.zhufengblog.com/tags/matplotlib%E7%BB%98%E5%9B%BE/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.zhufengblog.com/tags/latex%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
@@ -187,6 +187,13 @@
   
   <url>
     <loc>https://www.zhufengblog.com/tags/numpy%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zhufengblog.com/tags/matplotlib%E7%BB%98%E5%9B%BE/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -252,6 +259,13 @@
   
   <url>
     <loc>https://www.zhufengblog.com/categories/python%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.zhufengblog.com/categories/python/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
