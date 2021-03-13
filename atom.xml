@@ -18,8 +18,8 @@
   
   <entry>
     <title>爬虫入门1</title>
-    <link href="https://www.zhufengblog.com/2021/03/11/python%E7%88%AC%E8%99%AB-%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A81/"/>
-    <id>https://www.zhufengblog.com/2021/03/11/python%E7%88%AC%E8%99%AB-%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A81/</id>
+    <link href="https://www.zhufengblog.com/2021/03/11/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A81/"/>
+    <id>https://www.zhufengblog.com/2021/03/11/%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A81/</id>
     <published>2021-03-11T15:58:59.000Z</published>
     <updated>2021-03-12T15:34:55.933Z</updated>
     
@@ -56,8 +56,8 @@ rsepond &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;
   
   <entry>
     <title>个人博客网站配置</title>
-    <link href="https://www.zhufengblog.com/2021/03/06/python%E5%9F%BA%E7%A1%80-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/"/>
-    <id>https://www.zhufengblog.com/2021/03/06/python%E5%9F%BA%E7%A1%80-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/</id>
+    <link href="https://www.zhufengblog.com/2021/03/06/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/"/>
+    <id>https://www.zhufengblog.com/2021/03/06/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E9%85%8D%E7%BD%AE/</id>
     <published>2021-03-05T16:11:45.000Z</published>
     <updated>2021-03-12T10:12:14.859Z</updated>
     
@@ -76,8 +76,8 @@ rsepond &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;
   
   <entry>
     <title>git</title>
-    <link href="https://www.zhufengblog.com/2021/02/23/python%E5%9F%BA%E7%A1%80-git/"/>
-    <id>https://www.zhufengblog.com/2021/02/23/python%E5%9F%BA%E7%A1%80-git/</id>
+    <link href="https://www.zhufengblog.com/2021/02/23/git/"/>
+    <id>https://www.zhufengblog.com/2021/02/23/git/</id>
     <published>2021-02-23T12:09:00.000Z</published>
     <updated>2021-03-05T17:18:43.311Z</updated>
     
@@ -104,8 +104,8 @@ rsepond &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;
   
   <entry>
     <title>变量和字符串的使用</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%8F%98%E9%87%8F%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%8F%98%E9%87%8F%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/%E5%8F%98%E9%87%8F%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/%E5%8F%98%E9%87%8F%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
     <published>2021-02-12T06:26:14.000Z</published>
     <updated>2021-02-23T13:59:16.902Z</updated>
     
@@ -135,8 +135,8 @@ rsepond &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;
   
   <entry>
     <title>函数和模块的作用</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%9C%E7%94%A8/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%9C%E7%94%A8/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%9C%E7%94%A8/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%9C%E7%94%A8/</id>
     <published>2021-02-12T06:24:16.000Z</published>
     <updated>2021-02-24T09:54:27.232Z</updated>
     
@@ -165,8 +165,8 @@ rsepond &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;
   
   <entry>
     <title>numpy数组入门</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-numpy%E6%95%B0%E7%BB%84%E5%85%A5%E9%97%A8/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-numpy%E6%95%B0%E7%BB%84%E5%85%A5%E9%97%A8/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/numpy%E6%95%B0%E7%BB%84%E5%85%A5%E9%97%A8/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/numpy%E6%95%B0%E7%BB%84%E5%85%A5%E9%97%A8/</id>
     <published>2021-02-12T06:08:29.000Z</published>
     <updated>2021-02-23T13:55:42.736Z</updated>
     
@@ -195,8 +195,8 @@ sub_a&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;a&lt;span class=
   
   <entry>
     <title>artist对象</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-artist%E5%AF%B9%E8%B1%A1/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-artist%E5%AF%B9%E8%B1%A1/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/artist%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/artist%E5%AF%B9%E8%B1%A1/</id>
     <published>2021-02-12T06:04:45.000Z</published>
     <updated>2021-02-23T13:54:13.770Z</updated>
     
@@ -227,8 +227,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>列表</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%88%97%E8%A1%A8/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E5%9F%BA%E7%A1%80-%E5%88%97%E8%A1%A8/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/%E5%88%97%E8%A1%A8/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/%E5%88%97%E8%A1%A8/</id>
     <published>2021-02-11T17:03:20.000Z</published>
     <updated>2021-02-23T13:59:50.355Z</updated>
     
@@ -254,8 +254,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>初见网络爬虫</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/python%E7%88%AC%E8%99%AB-%E5%88%9D%E8%A7%81%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/python%E7%88%AC%E8%99%AB-%E5%88%9D%E8%A7%81%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/%E5%88%9D%E8%A7%81%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/%E5%88%9D%E8%A7%81%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</id>
     <published>2021-02-11T17:02:39.000Z</published>
     <updated>2021-02-23T13:57:57.216Z</updated>
     
@@ -284,8 +284,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>sublime text3配置LaTex</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/latex-sublime-text3%E9%85%8D%E7%BD%AELaTex/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/latex-sublime-text3%E9%85%8D%E7%BD%AELaTex/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/sublime-text3%E9%85%8D%E7%BD%AELaTex/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/sublime-text3%E9%85%8D%E7%BD%AELaTex/</id>
     <published>2021-02-11T17:01:06.000Z</published>
     <updated>2021-02-23T14:00:30.683Z</updated>
     
@@ -309,8 +309,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>vscode中配置latex</title>
-    <link href="https://www.zhufengblog.com/2021/02/12/latex-vscode%E4%B8%AD%E9%85%8D%E7%BD%AElatex/"/>
-    <id>https://www.zhufengblog.com/2021/02/12/latex-vscode%E4%B8%AD%E9%85%8D%E7%BD%AElatex/</id>
+    <link href="https://www.zhufengblog.com/2021/02/12/vscode%E4%B8%AD%E9%85%8D%E7%BD%AElatex/"/>
+    <id>https://www.zhufengblog.com/2021/02/12/vscode%E4%B8%AD%E9%85%8D%E7%BD%AElatex/</id>
     <published>2021-02-11T17:00:25.000Z</published>
     <updated>2021-02-23T14:00:01.332Z</updated>
     
@@ -330,8 +330,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>matplotlib入门</title>
-    <link href="https://www.zhufengblog.com/2021/02/11/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-matplotlib%E5%85%A5%E9%97%A8/"/>
-    <id>https://www.zhufengblog.com/2021/02/11/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-matplotlib%E5%85%A5%E9%97%A8/</id>
+    <link href="https://www.zhufengblog.com/2021/02/11/matplotlib%E5%85%A5%E9%97%A8/"/>
+    <id>https://www.zhufengblog.com/2021/02/11/matplotlib%E5%85%A5%E9%97%A8/</id>
     <published>2021-02-11T14:09:50.000Z</published>
     <updated>2021-02-23T13:55:17.433Z</updated>
     
@@ -351,8 +351,8 @@ ax &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plt&lt;span class
   
   <entry>
     <title>符号计算</title>
-    <link href="https://www.zhufengblog.com/2021/02/11/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-%E7%AC%A6%E5%8F%B7%E8%AE%A1%E7%AE%97/"/>
-    <id>https://www.zhufengblog.com/2021/02/11/python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97-%E7%AC%A6%E5%8F%B7%E8%AE%A1%E7%AE%97/</id>
+    <link href="https://www.zhufengblog.com/2021/02/11/%E7%AC%A6%E5%8F%B7%E8%AE%A1%E7%AE%97/"/>
+    <id>https://www.zhufengblog.com/2021/02/11/%E7%AC%A6%E5%8F%B7%E8%AE%A1%E7%AE%97/</id>
     <published>2021-02-11T14:09:50.000Z</published>
     <updated>2021-02-23T13:59:11.581Z</updated>
     
